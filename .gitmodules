@@ -13,3 +13,6 @@
 [submodule "libs/RTClib"]
 	path = libs/RTClib
 	url = https://github.com/adafruit/RTClib
+[submodule "libs/uClibc"]
+	path = libs/uClibc
+	url = git://git.busybox.net/uClibc++
