@@ -10,3 +10,6 @@
 [submodule "libs/jeelib"]
 	path = libs/jeelib
 	url = https://github.com/jcw/jeelib
+[submodule "libs/RTClib"]
+	path = libs/RTClib
+	url = https://github.com/adafruit/RTClib
