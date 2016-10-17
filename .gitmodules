@@ -7,3 +7,6 @@
 [submodule "libs/Arduino-PID-Library"]
 	path = libs/Arduino-PID-Library
 	url = https://github.com/br3ttb/Arduino-PID-Library
+[submodule "libs/jeelib"]
+	path = libs/jeelib
+	url = https://github.com/jcw/jeelib
