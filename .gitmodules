@@ -4,3 +4,6 @@
 [submodule "libs/Arduino-PID-AutoTune-Library"]
 	path = libs/Arduino-PID-AutoTune-Library
 	url = https://github.com/br3ttb/Arduino-PID-AutoTune-Library
+[submodule "libs/Arduino-PID-Library"]
+	path = libs/Arduino-PID-Library
+	url = https://github.com/br3ttb/Arduino-PID-Library
