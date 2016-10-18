@@ -1,6 +1,7 @@
 [submodule "avr-stl"]
 	path = avr-stl
-	url = https://github.com/andysworkshop/avr-stl
+	branch = ide
+	url = https://github.com/jkross/avr-stl
 [submodule "libs/Arduino-PID-AutoTune-Library"]
 	path = libs/Arduino-PID-AutoTune-Library
 	url = https://github.com/br3ttb/Arduino-PID-AutoTune-Library
